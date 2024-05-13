@@ -8,7 +8,11 @@ Here are some Python libraries that can enhance your development process and bri
 
 Enhance Your Python Skills with These 20 Awesome Libraries
 
-I
+### Executorch: On-device AI across mobile, embedded and edge for PyTorch
+
+an end-to-end solution for enabling on-device inference capabilities across mobile and edge devices including wearables, embedded devices and microcontrollers. It is part of the PyTorch Edge ecosystem and enables efficient deployment of PyTorch models to edge devices.
+https://github.com/pytorch/executorch
+
 ### Pendulum: Mastering Date and Time Operations
 
 Managing dates and times can be tricky, but with pendulum, it becomes a breeze. This library offers a simple and intuitive interface for performing date and time computations, making it a must-have for any Python developer. Whether you're working on scheduling tasks or handling time-sensitive operations, pendulum will be your trustworthy companion.
